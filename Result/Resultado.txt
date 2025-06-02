@@ -1,9 +1,17 @@
 ❌ Reglas encontradas como RETIRED en la base estándar:
 
-- AE008_EC_M ➜ encontrado como APAE008_EC_M_AN_RETIRED
+- PRG02069_EC ➜ encontrado como PRG02069_EC_RETIRED
+- DS01002_EC_M_AN ➜ encontrado como DS01002_EC_M_AN RETIRED
 - CLB004_EC_M_AN ➜ encontrado como CLB004_EC_M_AN_RETIRED
-- HLB004_EC_M_AN ➜ encontrado como HLB004_EC_M_AN_RETIRED
-- AE006_EC_M ➜ encontrado como APAE006_EC_M_RETIRED
 - VS02_2057_EC ➜ encontrado como VS02_2057_EC_RETIRED
-- AE010_EC_M_AN ➜ encontrado como APAE010_EC_M_AN_RETIRED
+- DS01052_EC_AN ➜ encontrado como DS01052_EC_AN_RETIRED
+- HLB004_EC_M_AN ➜ encontrado como HLB004_EC_M_AN_RETIRED
+- DS01010_EC_M_AN ➜ encontrado como DS01010_EC_M_AN RETIRED
+- DS01008_EC_M_AN ➜ encontrado como DS01008_EC_M_AN_RETIRED
+- DS01085_EC_AN ➜ encontrado como DS01085_EC_AN_RETIRED
+- MH003_EC_M ➜ encontrado como MH003_EC_M RETIRED
+- DS01009_EC_M_AN ➜ encontrado como DS01009_EC_M_AN_RETIRED
 - VS02057_EC ➜ encontrado como VS02057_EC_RETIRED
+- AE006_EC_M ➜ encontrado como APAE006_EC_M_RETIRED
+- AE008_EC_M ➜ encontrado como APAE008_EC_M_AN_RETIRED
+- AE010_EC_M_AN ➜ encontrado como APAE010_EC_M_AN_RETIRED
